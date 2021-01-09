@@ -1,0 +1,31 @@
+body {
+    background-color: aqua;
+    text-align: center;
+    font-family: monospace;
+}
+
+img {
+    width: 200px;
+    height: 100px;
+    text-align: center;
+
+}
+
+.links:hover {
+    background: white;
+    font-size: 25px;
+}
+
+.links {
+    float: left;
+    color: mediumaquamarine;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: serif;
+    font-size: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
